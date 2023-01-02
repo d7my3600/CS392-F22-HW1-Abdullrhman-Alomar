@@ -2,5 +2,5 @@
 Mohammed-Aldekhail
 Mohammed-Alqarni
 Khaled-Alharbi
-Flaeh-Alsakran
+Faleh-Alsakran
 Abdullrhman-Alqahtani
