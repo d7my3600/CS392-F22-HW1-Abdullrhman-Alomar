@@ -2,8 +2,8 @@
 SWE2 project members
 
  - Abdullrhman Alomar
- - Mohammed Aldekhail
  - Mohammed Alqarni
+ - Mohammed Aldekhail
  - Khaled Alharbi
  - Faleh Alsakran
  - Abdullrhman Alqahtani
